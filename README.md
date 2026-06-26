@@ -201,3 +201,7 @@ autopsy-insider-investigation/
 # Disclaimer
 
 This investigation was conducted using a publicly available forensic training image provided for educational purposes.
+
+# Author
+
+Agata Gabara
