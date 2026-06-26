@@ -1,0 +1,16 @@
+# Disk images
+*.E01
+*.E02
+*.E03
+*.img
+*.dd
+*.raw
+
+# Autopsy
+autopsy.db
+*.db
+
+# Case folders
+Forensics/
+Cases/
+Images/
